@@ -1,0 +1,25 @@
+.photo {
+	float: left;
+	margin-right: 200px;
+}
+
+
+h3 {
+	font-style: italic;
+	font-weight: 25px;
+	color: #A929D3;
+}
+
+.social_media {
+	display: flex;
+	text-align: center;
+	margin-top: 15px;
+}
+
+b {
+	color: #FF414A;
+}
+
+a {
+	color: #0000FF;
+}
